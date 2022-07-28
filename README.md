@@ -48,7 +48,6 @@
 <hr>
 <p> 
   <a><img align=left src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
-  <h3>Trabajando en: 🚀</h3>
   <a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
 </p>
 
