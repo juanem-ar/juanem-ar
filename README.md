@@ -1,9 +1,14 @@
+[<img align="right" alt="juanem-ar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="right" alt="juanem-ar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="right" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="right" alt="juanem-ar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<p align=center><a href="https://imgbb.com/"><img src="https://i.ibb.co/dMrS2z4/img-01.png" alt="img-01" border="0"></a></p>
+<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dMrS2z4/img-01.png" alt="img-01" border="0"></a></p>
 
-### 👋 Hola a todos!! <a href="https://www.linkedin.com/in/juanem/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15px" alt="linkedin"></a>  <a href="mailto:jmlopezestudios@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15px" alt="mail"></a>  <a href="https://www.facebook.com/juanmanuel.lopez.7564/" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="15px" alt="mail"></a> <a href="https://www.instagram.com/juanem2/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="15px" alt="mail"></a>
-<p>¡Bienvenid@s a mi página de Github! ¡Soy Juan y actualmente estoy terminando la carrera de Desarrollo Web y Aplicaciones Digitales en el <strong>Instituto Superior Politécnico de Córdoba</strong> (ISPC) de Argentina!</p>
+### 👋 Hola a todos!! 
+
+<p >¡Bienvenid@s a mi página de Github! ¡Soy Juan y actualmente estoy terminando la carrera de Desarrollo Web y Aplicaciones Digitales en el <strong>Instituto Superior Politécnico de Córdoba</strong> (ISPC) de Argentina!</p>
 
 ### 🌱 Cosas en las que estoy trabajando actualmente: 
   - [Proyecto de prácticas profesionales](https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15) 🚀 *coming soon*
@@ -46,9 +51,20 @@
 
 ### Github 🐈
 <hr> 
-<a><img align=left src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
-<br><br><br><br><br><br><br><br><br>
+<a><img align=center src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
 
 ### Trabajando en 🚀
 <hr>
-<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
+<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
+<hr>
+
+[<img align="left" alt="juanem-ar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="juanem-ar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="juanem-ar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[gmail]: mailto:jmlopezestudios@gmail.com   
+[instagram]: https://www.instagram.com/juanem2/
+[facebook]: https://www.facebook.com/juanmanuel.lopez.7564/
+[linkedin]: https://www.linkedin.com/in/juanem/
