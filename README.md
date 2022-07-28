@@ -45,12 +45,11 @@
  </p>
 
 ### Github 🐈
-<hr>
-<p> 
-  <a><img align=left src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
-  <a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
-</p>
+<hr> 
+<a><img align=left src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
 
-<br><br><br><br><br><br><br>
+### Trabajando en 🚀
+<hr>
+<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
 
 <a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=juanem-ar.juanem-ar" alt="Visitantes"></a>
