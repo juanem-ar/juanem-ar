@@ -41,12 +41,13 @@
  <img src="https://img.shields.io/badge/Kanban-red?style=for-the-badge"><br>
  <img src="https://img.shields.io/badge/Adobe_Photoshop-0078D4?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
  <img src="https://img.shields.io/badge/Adobe_Illustrator-yellow?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
- <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+ <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
  </p>
 
 ### Github 🐈
 <hr> 
 <a><img align=left src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
+<br><br><br><br><br><br><br><br><br>
 
 ### Trabajando en 🚀
 <hr>
