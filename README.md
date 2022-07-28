@@ -2,14 +2,18 @@
 
 <p align=center><a href="https://imgbb.com/"><img src="https://i.ibb.co/dMrS2z4/img-01.png" alt="img-01" border="0"></a></p>
 
-### Hola a todos, soy Juan!! 👋
-<hr>
-<div align=left><br>
-  - 🔭 Hola! acá un cordobés 🙋‍♂️  Actualmente soy un estudiante de Desarrollo Web y Aplicaciones Digitales del Instituto Superior Politécnico de Córdoba ( ISPC ), Argentina.<br>
-  - 🌱 Actualmente me encuentro sumando conocimiento en Spring<br>
-  - 🙇 Me fascina aprender, ayudar y colaborar en todo lo que pueda.<br>
-  - ⚡ Apasionado por el paintball 🔫🟠🟡🟢<br><br>
-</div>
+### 👋 Hola a todos!! <a href="https://www.linkedin.com/in/juanem/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15px" alt="linkedin"></a>  <a href="mailto:jmlopezestudios@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15px" alt="mail"></a>  <a href="https://www.facebook.com/juanmanuel.lopez.7564/" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="15px" alt="mail"></a> <a href="https://www.instagram.com/juanem2/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="15px" alt="mail"></a>
+<p>¡Bienvenid@s a mi página de Github! ¡Soy Juan y actualmente estoy terminando la carrera de Desarrollo Web y Aplicaciones Digitales en el <strong>Instituto Superior Politécnico de Córdoba</strong> (ISPC) de Argentina!</p>
+
+### 🌱 Cosas en las que estoy trabajando actualmente: 
+  - [Proyecto de prácticas profesionales](https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15) 🚀 *coming soon*
+  - Tomando cursos online sobre Spring, Spring boot
+  
+#### :muscle: Cosas con las que me estoy desafiando:
+- Arrancar el día 5 am para cumplir con mi labor profesional dentro de una industria mecanica.
+- Cumplir con trabajos de testing web para una empresa local
+- Hacer ejercicio durante la semana (3 días mínimo)
+- Codear 3 o 4 horas por día
 
 
 ### Conocimientos 📚
@@ -42,21 +46,12 @@
 
 ### Github 🐈
 <hr>
-<p align=center> <img src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="deep5050" /> </p>
-
-### My latest projects
-
-<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15" />
-</a>
-
-
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=juanem-ar.juanem-ar" alt="Visitors">                     
+<p> 
+  <a><img align=left src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
+  <h3>Trabajando en: 🚀</h3>
+  <a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
 </p>
-<p align="center">
-<a href="https://www.instagram.com/juanem2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dpnkr.pl" height="20" width="20" /></a>
-<a href="https://www.facebook.com/juanmanuel.lopez.7564/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a></p>
 
-  
+<br><br><br><br><br><br><br>
 
+<a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=juanem-ar.juanem-ar" alt="Visitantes"></a>
