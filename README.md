@@ -1,14 +1,11 @@
-<!--[<img align="right" alt="juanem-ar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]-->
-<!--[<img align="right" alt="juanem-ar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
-[<img align="right" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<!--[<img align="right" alt="juanem-ar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
+[<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
 
 
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dMrS2z4/img-01.png" alt="img-01" border="0"></a></p>
 
-### 👋 Hola a todos!! 
+### 👋 Hola a todos!!  
 
-<p >¡Bienvenid@s a mi página de Github! ¡Soy Juan y actualmente estoy terminando la carrera de Desarrollo Web y Aplicaciones Digitales en el <strong>Instituto Superior Politécnico de Córdoba</strong> (ISPC) de Argentina!</p>
+<p >¡Bienvenid@s a mi página de Github! ¡Soy Juan y actualmente estoy terminando la carrera de Desarrollo Web y Aplicaciones Digitales en el <strong>Instituto Superior Politécnico de Córdoba</strong> (ISPC) de Argentina!</p> 
 
 ### 🌱 Cosas en las que estoy trabajando actualmente: 
   - [Proyecto de prácticas profesionales](https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15) 🚀 *coming soon*
@@ -58,10 +55,7 @@
 <a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
 <hr>
 
-[<img align="left" alt="juanem-ar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="juanem-ar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="juanem-ar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
 
 
 [gmail]: mailto:juanemlopez@gmail.com
