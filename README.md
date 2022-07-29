@@ -64,7 +64,4 @@
 [<img align="left" alt="juanem-ar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[gmail]: mailto:jmlopezestudios@gmail.com   
-[instagram]: https://www.instagram.com/juanem2/
-[facebook]: https://www.facebook.com/juanmanuel.lopez.7564/
-[linkedin]: https://www.linkedin.com/in/juanem/
+[gmail]: mailto:juanemlopez@gmail.com
