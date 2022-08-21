@@ -52,8 +52,9 @@
 
 ### Trabajando en 🚀
 <hr>
-<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
-<hr>
+<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
+
+<a href="https://github.com/juanem-ar/Pre-aceleracion-Juan-Manuel-Lopez.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Pre-aceleracion-Juan-Manuel-Lopez" alt="Challenge Alkemy"></a>
 
 [<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
 
