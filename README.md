@@ -9,10 +9,10 @@
 
 ### 🌱 Cosas en las que estoy trabajando actualmente: 
   - [Proyecto de prácticas profesionales](https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15) 🚀 *coming soon*
-  - Tomando cursos online sobre Spring, Spring boot
+  - Tomando cursos online sobre Spring Boot, Spring Data, Spring Security
   
 #### :muscle: Cosas con las que me estoy desafiando:
-- Arrancar el día 5 am para cumplir con mi labor profesional dentro de una industria mecanica.
+- Arrancar el día 5 am para cumplir con mi labor profesional dentro de una industria mecánica.
 - Cumplir con trabajos de testing web para una empresa local
 - Hacer ejercicio durante la semana
 - Codear mínimo 3 o 4 horas por día
@@ -28,7 +28,9 @@
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white ">
  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white ">
  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white ">
+ 
  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white ">
+ <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springBoot&logoColor=white ">
  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white ">
  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white "><br>
  
@@ -37,13 +39,12 @@
  <img src="https://img.shields.io/badge/MySql_Workbench-blue?style=for-the-badge&logo=mysql&logoColor=white ">
  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white ">
  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white ">
- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white "><br>
+ <img src="https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=Postman&logoColor=white "><br>
  <img src="https://img.shields.io/badge/Agile-yellow?style=for-the-badge">
  <img src="https://img.shields.io/badge/SCRUM-339933?style=for-the-badge">
  <img src="https://img.shields.io/badge/Kanban-red?style=for-the-badge"><br>
  <img src="https://img.shields.io/badge/Adobe_Photoshop-0078D4?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
  <img src="https://img.shields.io/badge/Adobe_Illustrator-yellow?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
- <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
  </p>
 
 ### Github 🐈
