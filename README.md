@@ -56,6 +56,8 @@
 
 <a href="https://github.com/juanem-ar/Pre-aceleracion-Juan-Manuel-Lopez.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Pre-aceleracion-Juan-Manuel-Lopez" alt="Challenge Alkemy"></a>
 
+<a href="https://github.com/juanem-ar/api-saber-conectar.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=api-saber-conectar" alt="Gestor de registros e inscripciones."></a>
+
 [<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
 
 
