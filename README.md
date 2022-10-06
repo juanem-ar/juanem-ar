@@ -12,8 +12,7 @@
   - Tomando cursos online sobre Spring Boot, Spring Data, Spring Security
   
 #### :muscle: Cosas con las que me estoy desafiando:
-- Arrancar el día 5 am para cumplir con mi labor profesional dentro de una industria mecánica.
-- Cumplir con trabajos de testing web para una empresa local
+- Tester funcional para una empresa local
 - Hacer ejercicio durante la semana
 - Codear mínimo 3 o 4 horas por día
 
