@@ -54,7 +54,7 @@
 <hr>
 <a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
 
-<a href="https://github.com/juanem-ar/Pre-aceleracion-Juan-Manuel-Lopez.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Pre-aceleracion-Juan-Manuel-Lopez" alt="Challenge Alkemy"></a>
+<a href="https://github.com/juanem-ar/Skill-Up-Java.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Skill-Up-Java" alt="SKU-Alkemy"></a>
 
 <a href="https://github.com/juanem-ar/api-saber-conectar.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=api-saber-conectar" alt="Gestor de registros e inscripciones."></a>
 
