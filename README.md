@@ -1,21 +1,16 @@
 [<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
 
-
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dMrS2z4/img-01.png" alt="img-01" border="0"></a></p>
 
 ### 👋 Hola a todos!!  
 
-<p >¡Bienvenid@s a mi página de Github! ¡Soy Juan y actualmente estoy terminando la carrera de Desarrollo Web y Aplicaciones Digitales en el <strong>Instituto Superior Politécnico de Córdoba</strong> (ISPC) de Argentina!</p> 
-
 ### 🌱 Cosas en las que estoy trabajando actualmente: 
   - [Proyecto de prácticas profesionales](https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15) 🚀 *coming soon*
-  - Tomando cursos online sobre Spring Boot, Spring Data, Spring Security
+  - Comenzando con pruebas unitarias con Java, Mockito y JUnit. 🚀 
   
 #### :muscle: Cosas con las que me estoy desafiando:
 - Tester funcional para una empresa local
-- Hacer ejercicio durante la semana
-- Codear mínimo 3 o 4 horas por día
-
+- Seguir trabajando y aprendiendo el mundo de Spring.
 
 ### Conocimientos 📚
 <hr>
@@ -52,9 +47,10 @@
 
 ### Trabajando en 🚀
 <hr>
-<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
 
 <a href="https://github.com/juanem-ar/Skill-Up-Java.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Skill-Up-Java" alt="SKU-Alkemy"></a>
+
+<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
 
 <a href="https://github.com/juanem-ar/api-saber-conectar.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=api-saber-conectar" alt="Gestor de registros e inscripciones."></a>
 
