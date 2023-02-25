@@ -4,13 +4,13 @@
 
 ### 👋 Hola a todos!!  
 
-### 🌱 Cosas en las que estoy trabajando actualmente: 
+### 🌱 Proyectos en los que estoy trabajando: 
   - [Proyecto de prácticas profesionales](https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15) 🚀 *coming soon*
   - Comenzando con pruebas unitarias con Java, Mockito y JUnit. 🚀 
   
 #### :muscle: Cosas con las que me estoy desafiando:
 - Tester funcional para una empresa local
-- Seguir trabajando y aprendiendo el mundo de Spring.
+- Estudiar, estudiar, estudiar
 
 ### Conocimientos 📚
 <hr>
