@@ -43,14 +43,10 @@
 
 ### Github 🐈
 <hr> 
-<a><img align=center src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true&theme=dark" alt="juanem-ar"></a>
+<a><img align=center src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
 
 ### Trabajando en 🚀
 <hr>
-
-<a><img align=center src="[https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)" alt="juanem-ar"></a>
-
-
 <a href="https://github.com/aron8112/Proyecto-XAcademy.git"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Proyecto-XAcademy" alt="ProyectoSantex"></a>
 
 [<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
