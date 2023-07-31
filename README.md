@@ -43,20 +43,15 @@
 
 ### Github 🐈
 <hr> 
-<a><img align=center src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
+<a><img align=center src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true&theme=dark" alt="juanem-ar"></a>
 
 ### Trabajando en 🚀
 <hr>
 
-https://github.com/juanem-ar/reservation-manager
+<a><img align=center src="[https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)" alt="juanem-ar"></a>
 
-<a href="https://github.com/juanem-ar/Skill-Up-Java.git"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Skill-Up-Java" alt="SKU-Alkemy"></a>
 
-<a href="https://github.com/juanem-ar/reservation-manager.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=reservation-manager" alt="Reservation Manager"></a>
-
-<a href="https://github.com/PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=g15-aula1-plataforma-virtual-g15" alt="PPROF2-2022ProgWeb/g15-aula1-plataforma-virtual-g15"></a>
-
-<a href="https://github.com/juanem-ar/api-saber-conectar.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=api-saber-conectar" alt="Gestor de registros e inscripciones."></a>
+<a href="https://github.com/aron8112/Proyecto-XAcademy.git"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Proyecto-XAcademy" alt="ProyectoSantex"></a>
 
 [<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
 
