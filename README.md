@@ -2,12 +2,8 @@
 
 <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dMrS2z4/img-01.png" alt="img-01" border="0"></a></p>
 
-### 👋 Hola a todos!!  
-
-### 🌱 Proyectos en los que estoy trabajando: 
-  - Booking Manager
   
-### Conocimientos 📚
+### Stack 
 <hr>
 <p align=center>
  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,16 +31,3 @@
  <img src="https://img.shields.io/badge/Adobe_Photoshop-0078D4?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
  <img src="https://img.shields.io/badge/Adobe_Illustrator-yellow?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
  </p>
-
-### Github 🐈
-<hr> 
-<a><img align=center src="https://github-readme-stats.vercel.app/api?username=juanem-ar&show_icons=true" alt="juanem-ar"></a>
-
-### Trabajando en 🚀
-<hr>
-<a href="https://github.com/aron8112/Proyecto-XAcademy.git"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=juanem-ar&repo=Proyecto-XAcademy" alt="ProyectoSantex"></a>
-
-[<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
-
-
-[gmail]: mailto:juanemlopez@gmail.com
