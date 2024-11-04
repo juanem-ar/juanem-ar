@@ -1,8 +1,4 @@
-[<img align="left" alt="juanem-ar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
 
-<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dMrS2z4/img-01.png" alt="img-01" border="0"></a></p>
-
-  
 ### Stack 
 <hr>
 <p align=center>
